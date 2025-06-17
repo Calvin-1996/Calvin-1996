@@ -1,15 +1,15 @@
-# Hi there, I'm Calvin 👋
+# Hi there, I'm Cal 👋
 
 ## About Me
 
-🔭 I'm currently working on **[Current Project/Company]**  
-🌱 I'm currently learning **[Technologies you're learning]**  
-👯 I'm looking to collaborate on **[What you want to collaborate on]**  
-🤔 I'm looking for help with **[What you need help with]**  
-💬 Ask me about **[Your expertise areas]**  
-📫 How to reach me: **[Your email or preferred contact method]**  
-😄 Pronouns: **[Your pronouns]**  
-⚡ Fun fact: **[Something interesting about you]**
+🔭 I'm currently working on **full-stack development projects**  
+🌱 I'm currently learning **advanced React patterns and backend optimization**  
+👯 I'm looking to collaborate on **open-source projects and web applications**  
+🤔 I'm looking for help with **system architecture and scaling strategies**  
+💬 Ask me about **JavaScript, Python, React, Node.js, and web development**  
+📫 How to reach me: **Feel free to connect through GitHub**  
+😄 Pronouns: **He/Him**  
+⚡ Fun fact: **I love turning coffee into code and solving complex problems**
 
 ## 🛠️ Technologies & Tools
 
@@ -41,18 +41,18 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&langs_count=8&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Cal9233&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cal9233&layout=compact&langs_count=8&theme=tokyonight"/>
 </div>
 
 ## 🔥 Streak Stats
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Cal9233&theme=tokyonight" alt="GitHub Streak" />
 </div>
 
 ## 🏆 GitHub Trophies
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=tokyonight&row=1&column=6" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Cal9233&theme=tokyonight&row=1&column=6" alt="GitHub Trophies" />
 </div>
 
 ## 📈 Activity Graph
