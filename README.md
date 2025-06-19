@@ -62,15 +62,6 @@
 
 ## 🎯 Featured Projects
 
-### [Project Name 1](https://github.com/yourusername/project1)
-Brief description of your project. What it does, technologies used, and why it's interesting.
-
-**Tech Stack:** React, Node.js, MongoDB, Express  
-**Features:** 
-- Feature 1
-- Feature 2
-- Feature 3
-
 ### [Discord Music Bot](https://github.com/Cal9233/discord_music_bot_2025)
 A Discord bot with voice recognition that allows users to control music playback using voice commands.
 
